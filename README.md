@@ -34,7 +34,7 @@ Estudante de Ciência da Computação na Universidade Veiga de Almeida
 
 
 ### Github Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=danniellcosta&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=danniellcosta&show_icons=true&theme=normal)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danniellcosta&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
